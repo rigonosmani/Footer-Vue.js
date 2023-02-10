@@ -1,4 +1,4 @@
-# eurotires
+# Footer Vue.js
 
 ## Project setup
 ```
